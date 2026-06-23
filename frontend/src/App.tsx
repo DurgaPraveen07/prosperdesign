@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 const servicesData = [
   { id: 1, category: 'Landscaping', image: '/land1.jpg', title: 'Landscaping Design', desc: 'Premium custom estate gardening and modern hardscaping.', price: '₹75,000' },
